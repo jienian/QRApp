@@ -1,0 +1,2 @@
+# QRScanner-App
+# QRApp
